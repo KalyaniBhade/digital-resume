@@ -14,7 +14,7 @@ style: styles-2
 
 #Profile information
 name: Kalyani Bhade
-tagline: Computer Science Graduate Student
+tagline: Data Engineer
 pic: profile.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
