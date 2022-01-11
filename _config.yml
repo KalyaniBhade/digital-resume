@@ -1,5 +1,5 @@
 
-title: My Resume
+title: Kalyani Bhade
 url: 'http://kalyanibhade.github.io'
 baseurl: '/' #change it according to your repository name
 
@@ -13,7 +13,7 @@ style: styles-2
 
 
 #Profile information
-name: Kalyani Bhade
+name: Kalyani Madhav Bhade
 tagline: Data/Backend Engineer
 pic: profile.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
