@@ -15,7 +15,7 @@ style: styles-2
 #Profile information
 name: Kalyani Madhav Bhade
 tagline: Data/Software Engineer
-pic: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: picture.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: kbhade@ucsd.edu
